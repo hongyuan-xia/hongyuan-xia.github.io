@@ -23,17 +23,12 @@ I am currently an economics Ph.D. candidate at [Cornell University](https://www.
 - <strong>[July 2024]</strong> I will present my “Million Dollar Plants” paper in NBER SI Innovation Conference in Boston
 - <strong>[July 2024]</strong> I will present my “Million Dollar Plants” paper in International Conference on Science of Science and Innovation (ICSSI) in Washington D.C.
 
-<div style="margin-top: 60px;"></div>
 
 {% include_relative _includes/paper.md %}
 
 {% include_relative _includes/progress.md %}
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 {% include_relative _includes/teaching.md %}
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 {% include_relative _includes/contact.md %}
 
