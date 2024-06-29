@@ -29,11 +29,11 @@ I am currently an economics Ph.D. candidate at [Cornell University](https://www.
 
 {% include_relative _includes/progress.md %}
 
-<div style="margin-top: 60px;"></div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 {% include_relative _includes/teaching.md %}
 
-<div style="margin-top: 60px;"></div>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 {% include_relative _includes/contact.md %}
 
