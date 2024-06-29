@@ -19,8 +19,6 @@ I am currently an economics Ph.D. candidate at [Cornell University](https://www.
 - **Ph.D. in Economics**, 2020 - , [Cornell University](https://www.cornell.edu/), U.S.
 - **B.A. in Economics**, 2016 - 2020, [Peking University](https://english.pku.edu.cn/), China
 
-<br>
-
 ## What's New
 - <strong>[July 2024]</strong> I will present my “Million Dollar Plants” paper in NBER SI Innovation Conference in Boston
 - <strong>[July 2024]</strong> I will present my “Million Dollar Plants” paper in International Conference on Science of Science and Innovation (ICSSI) in Washington D.C.
@@ -31,11 +29,11 @@ I am currently an economics Ph.D. candidate at [Cornell University](https://www.
 
 {% include_relative _includes/progress.md %}
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 {% include_relative _includes/teaching.md %}
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 {% include_relative _includes/contact.md %}
 
