@@ -250,9 +250,6 @@
   position: relative;
   vertical-align: top;
 }
-.section-break {
-    margin-top: 40px; /* Adjust this value as needed */
-}
 .pagination-previous:focus,
 .pagination-next:focus,
 .pagination-link:focus,
