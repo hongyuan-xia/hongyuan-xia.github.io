@@ -18,8 +18,8 @@ I am currently an economics Ph.D. candidate at [Cornell University](https://www.
 - **B.A. in Economics**, 2016 - 2020, [Peking University](https://english.pku.edu.cn/), China
 
 ## What's New
-- I will present my paper in NBER SI Innovation Conference in Boston
-- I will present my paper in International Conference on Science of Science and Innovation (ICSSI) in Washington D.C.
+- <strong>[July. 2024]</strong> I will present my paper in NBER SI Innovation Conference in Boston
+- <strong>[July. 2024]</strong> I will present my paper in International Conference on Science of Science and Innovation (ICSSI) in Washington D.C.
 
 
 {% include_relative _includes/paper.md %}
