@@ -24,7 +24,7 @@ I am currently a economics Ph.D. candidate at [Cornell University](https://www.c
 
 {% include_relative _includes/news.md %}
 
-{% include_relative _includes/projects.md %}
+{% include_relative _includes/research.md %}
 
 {% include_relative _includes/publications.md %}
 
