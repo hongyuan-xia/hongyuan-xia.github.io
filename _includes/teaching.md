@@ -5,7 +5,7 @@
 <ul>
 
 <li><strong>[Fall 2021 and 2022]</strong> Econometrics (PhD level), rating: 4.9/5.0, Cornell.</li>	
-<li><strong>[Spring 2023 2024]</strong> Introductory Macroeconomics, rating: 4.9/5.0, Cornell.</li>	
+<li><strong>[Spring 2023 and 2024]</strong> Introductory Macroeconomics, rating: 4.9/5.0, Cornell.</li>	
 <li><strong>[Spring 2024]</strong> Digital Platform Strategy (MBA Level), Cornell.</li>	
 <li><strong>[Spring 2023]</strong> Microeconomics (MBA Level), Cornell.</li>	
 
