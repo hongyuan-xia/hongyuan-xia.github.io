@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a economics Ph.D. candidate at [Cornell University](https://www.cornell.edu/), working under the supervision of Prof. [Chris Forman](https://dyson.cornell.edu/faculty-research/faculty/cmf257/) and Prof. [Matt Marx](https://business.cornell.edu/faculty-research/faculty/mtm83/). My research involves , with a special focus on .
+I am currently an economics Ph.D. candidate at [Cornell University](https://www.cornell.edu/), working under the supervision of Prof. [Chris Forman](https://dyson.cornell.edu/faculty-research/faculty/cmf257/) and Prof. [Matt Marx](https://business.cornell.edu/faculty-research/faculty/mtm83/). My research involves , with a special focus on .
 
 ## Research Interest
 
