@@ -5,5 +5,5 @@
 <ul>
 
 <li><strong>[Fall. 2021]</strong> Econometrics (PhD level), Cornell.</li>	
-</div>
+
 </ul>
