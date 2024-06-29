@@ -21,6 +21,14 @@ I am currently an economics Ph.D. candidate at [Cornell University](https://www.
 - **Cornell Center for Social Science Grant**, 2022-2023
 - **Sage Fellowship**, 2020-2026
 
+
+
+
+
+
+
+
+
 {% include_relative _includes/paper.md %}
 
 {% include_relative _includes/progress.md %}
