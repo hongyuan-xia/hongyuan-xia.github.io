@@ -11,9 +11,9 @@ address: 109 Tower Rd, Ithaca, NY 14853
 address_link: https://www.google.com/maps/place/Uris+Hall/@42.4474558,-76.4824583,15z/data=!4m6!3m5!1s0x89d0818aff0be151:0x57871cfa39e13680!8m2!3d42.4474558!4d-76.4824583!16s%2Fg%2F11csp7sz8_?entry=ttu
 
 # Search Engine Optimization (SEO)
-keywords: song chen, chen song, songchen, chensong
+keywords: hongyuan xia, xia hongyuan, hongyuanxia, xiahongyuan
 canonical: https://minimal-light-theme.yliu.me/
-description: Song Chen is a Ph.D. canditate at Spin-Ion Technologies and Université Paris-Saclay. His research lies at using magneto-ionics to develop new concepts for magnetic data storage, spintronic devices and magnonics, always with the aim of improving energy efficiency with respect to currently available technologies - with a special focus on the boosting magneto-ionic effect using ion irradiation & ion implantation.
+description: Song Chen is a Ph.D. canditate at Cornell University. His research lies at .
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -22,11 +22,8 @@ enable_hopkins_logo: false
 enable_last_update: false
 
 # Links
-cv_link: https://blog.songchen.science/de3ec0aa2234aa1e3ee275bbc715c6c9/CV.pdf
-google_scholar: https://scholar.google.com/citations?user=sf-0AGoAAAAJ&hl=de
-github_link: https://github.com/song-chen1/
-linkedin: https://www.linkedin.com/in/song-chen-3449b9278/
-researchgate: https://www.researchgate.net/profile/Song-Chen-60
+cv_link: https://www.dropbox.com/scl/fi/nmhy15mr89z78otappe6q/hongyuan_cv.pdf?rlkey=wp8zyss6yrlhhzlhkjhsoq01o&st=8arj1wo5&dl=0
+linkedin: https://www.linkedin.com/in/hongyuan-xia-470312223/
 
 # Images 
 avatar: ./assets/img/avatar3.jpg
