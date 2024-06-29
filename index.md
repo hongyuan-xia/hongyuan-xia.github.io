@@ -6,13 +6,12 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently an economics Ph.D. candidate at [Cornell University](https://www.cornell.edu/), working under the supervision of Prof. [Chris Forman](https://dyson.cornell.edu/faculty-research/faculty/cmf257/) and Prof. [Matt Marx](https://business.cornell.edu/faculty-research/faculty/mtm83/). My research involves , with a special focus on .
+I am currently an economics Ph.D. candidate at [Cornell University](https://www.cornell.edu/), working under the supervision of Prof. [Chris Forman](https://dyson.cornell.edu/faculty-research/faculty/cmf257/) and Prof. [Matt Marx](https://business.cornell.edu/faculty-research/faculty/mtm83/). My research focuses on the economics of innovation and entrepreneurship. Specifically, I am interested in how firms influence academic science, how scientists and organizations adapt to technological and organizational changes, and the factors that lead some individuals to become entrepreneurs while others do not.
 
 ## Research Interest
 
-- **Innovation:** technology commercialization, business process innovation
-- **Entrepreneurship:** 
-- **Science of Science:** 
+- **Innovation:** technology commercialization, science of science, business process innovation
+- **Entrepreneurship:** race and enterpreneurship, family entrepreneurship
 
 ## Education
 - **Ph.D. in Economics**, 2020 - , [Cornell University](https://www.cornell.edu/), U.S.
