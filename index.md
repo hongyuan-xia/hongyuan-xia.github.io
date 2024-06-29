@@ -17,16 +17,9 @@ I am currently an economics Ph.D. candidate at [Cornell University](https://www.
 - **Ph.D. in Economics**, 2020 - , [Cornell University](https://www.cornell.edu/), U.S.
 - **B.A. in Economics**, 2016 - 2020, [Peking University](https://english.pku.edu.cn/), China
 
-## Grants and Fellowships
-- **Cornell Center for Social Science Grant**, 2022-2023
-- **Sage Fellowship**, 2020-2026
-
-
-
-
-
-
-
+## What's New
+- I will present my paper in NBER SI Innovation Conference in Boston
+- I will present my paper in International Conference on Science of Science and Innovation (ICSSI) in Washington D.C.
 
 
 {% include_relative _includes/paper.md %}
