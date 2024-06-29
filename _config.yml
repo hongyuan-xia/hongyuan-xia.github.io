@@ -13,7 +13,7 @@ address_link: https://www.google.com/maps/place/Uris+Hall/@42.4474558,-76.482458
 # Search Engine Optimization (SEO)
 keywords: hongyuan xia, xia hongyuan, hongyuanxia, xiahongyuan
 canonical: https://minimal-light-theme.yliu.me/
-description: Song Chen is a Ph.D. canditate at Cornell University.
+description: Hongyuan Xia is a Ph.D. canditate at Cornell University.
 
 # The option is used to enable the Johns Hopkins template.
 enable_hopkins_logo: false
@@ -27,8 +27,8 @@ linkedin: https://www.linkedin.com/in/hongyuan-xia-470312223/
 
 # Images 
 avatar: ./assets/img/avatar3.jpg
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+favicon: ./assets/img/headshot_hx.png
+favicon_dark: ./assets/img/headshot_hx.png
 
 # Footnotes
 # Footnote
