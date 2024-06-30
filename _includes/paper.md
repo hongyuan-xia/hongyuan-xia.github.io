@@ -1,4 +1,3 @@
-<br>
 <h1 id="paper"></h1>
 
 <h2 style="margin: 30px 0px 10px;">Working Papers</h2>
