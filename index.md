@@ -30,6 +30,5 @@ I am currently an economics Ph.D. candidate at [Cornell University](https://www.
 <br><br><br>
 {% include_relative _includes/teaching.md %}
 
-<br><br><br>
 {% include_relative _includes/contact.md %}
 
