@@ -5,6 +5,5 @@
 <ul>
 
 <li><strong> Closing the Racial Gap in Entrepreneurship: The Role of Spousal Public Sector Jobs </strong> (w. Qian Wang).</li>
-<li><strong> AI Adoption and Managerial Skills </strong> (w. Chris Forman).</li>
 
 </ul>
