@@ -12,7 +12,7 @@ I am currently an economics Ph.D. candidate at [Cornell University](https://www.
 
 ## Research Interest
 
-- **Innovation:** technology commercialization, science of science, business process innovation
+- **Innovation:** market for technology
 - **Entrepreneurship:** race and enterpreneurship, family entrepreneurship
 
 ## Education
@@ -20,8 +20,8 @@ I am currently an economics Ph.D. candidate at [Cornell University](https://www.
 - **B.A. in Economics**, 2016 - 2020, [Peking University](https://english.pku.edu.cn/), China
 
 ## What's New
-- <strong>[July 2024]</strong> I will present my “Million Dollar Plants” paper in NBER SI Innovation Conference in Boston.
-- <strong>[July 2024]</strong> I will present my “Million Dollar Plants” paper in International Conference on Science of Science and Innovation (ICSSI) in Washington DC.
+- <strong>[July 2025]</strong> I will present my “Million Dollar Plants” paper in AOM 2025 in Copenhagen.
+- <strong>[July 2025]</strong> I will present my “Million Dollar Plants” paper in The Max Planck Innovation & Entrepreneurship Seminar in Munich.
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 {% include_relative _includes/paper.md %}
