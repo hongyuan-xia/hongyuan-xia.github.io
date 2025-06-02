@@ -6,14 +6,14 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently an economics Ph.D. candidate at [Cornell University](https://www.cornell.edu/), working under the supervision of Prof. [Chris Forman](https://dyson.cornell.edu/faculty-research/faculty/cmf257/) and Prof. [Matt Marx](https://business.cornell.edu/faculty-research/faculty/mtm83/). My research focuses on the economics of innovation and entrepreneurship. Specifically, I am interested in how firms influence academic science, how scientists and organizations adapt to technological and organizational changes, and the factors that lead some individuals to become entrepreneurs while others do not.
+I am currently an economics Ph.D. candidate at [Cornell University](https://www.cornell.edu/), working under the supervision of Prof. [Chris Forman](https://dyson.cornell.edu/faculty-research/faculty/cmf257/) and Prof. [Matt Marx](https://business.cornell.edu/faculty-research/faculty/mtm83/). My research focuses on the economics of innovation and technology commercialization. I examine how firms influence the direction of academic science, how appropriability and absorptive capacity shape firms’ demand for external technologies, and how different commercialization channels—such as startup formation versus licensing—affect the diffusion of university inventions. I have been recognized with the Wharton Innovation Doctoral Symposium Best Paper Award and was nominated for the SMS Best PhD Paper Prize.
 
 <br>
 
 ## Research Interest
 
-- **Innovation:** market for technology
-- **Entrepreneurship:** race and enterpreneurship, family entrepreneurship
+- **Innovation:** university–industry interaction, market for technology
+- **Entrepreneurship:** commercialization strategy
 
 ## Education
 - **Ph.D. in Economics**, 2020 - , [Cornell University](https://www.cornell.edu/), U.S.
