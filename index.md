@@ -16,8 +16,8 @@ My research sits at the intersection of strategic management, innovation, and en
 
 ## Research Interest
 
-- **Innovation:** university–industry interaction, market for technology
-- **Entrepreneurship:** commercialization strategy
+- **Innovation:** university–industry interaction, market for technology.
+- **Entrepreneurship:** commercialization strategy, diversity and entrepreneurship.
 
 ## Education
 - **Ph.D. in Economics**, 2020 - , [Cornell University](https://www.cornell.edu/), U.S.
