@@ -13,8 +13,7 @@
   <li><strong>[Spring 2025]</strong> Venture Creation Lab (MBA Level), University of Pennsylvania.</li>	
 </ul>
 
-<br><br>
-<hr>
+<br>
 <h3><strong>Student comments:</strong></h3>
 
 <ul>
