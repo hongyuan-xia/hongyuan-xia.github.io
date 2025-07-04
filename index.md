@@ -8,7 +8,7 @@ layout: homepage
 
 I am currently an economics Ph.D. candidate at [Cornell University](https://www.cornell.edu/), working under the supervision of Prof. [Chris Forman](https://dyson.cornell.edu/faculty-research/faculty/cmf257/) and Prof. [Matt Marx](https://business.cornell.edu/faculty-research/faculty/mtm83/). 
 
-My research sits at the intersection of strategic management, innovation, and entrepreneurship. I focus on two main areas. The first explores university-industry interaction and its implications, and the second examines how policies, resources, and the environment shape innovation. My work has been recognized with the Wharton Innovation Doctoral Symposium Best Paper Award (2025), the DRUID Steven Klepper Award, and a nomination for the SMS Best PhD Paper Prize.
+My research sits at the intersection of strategic management, innovation, and entrepreneurship. I focus on two main areas. The first explores university-industry interaction and its implications, and the second examines how policies, resources, and the institutional environment shape innovation. My work has been recognized with the Wharton Innovation Doctoral Symposium Best Paper Award (2025), the DRUID Steven Klepper Award, and a nomination for the SMS Best PhD Paper Prize.
 
 <strong>I am on the 2025-2026 academic job market.</strong>
 
