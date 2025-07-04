@@ -15,7 +15,7 @@ Course description: Analysis of aggregate economic activity in relation to the l
 <li><strong>[Spring 2024]</strong> Digital Platform Strategy (MBA Level), Cornell.</li>	
 <li><strong>[Spring 2025]</strong> Venture Creation Lab (MBA Level) , University of Pennsylvania.</li>	
 
-<li><strong>Students comments:</li>	
+<strong>Students comments:
 
 *"Hongyuan is an excellent TA! He is so patient with all the students and tries to help the students. He is super willing to help students. I
 am so glad to have him as our TA this semester."*
