@@ -3,14 +3,23 @@
 <h2 style="margin: 100px 0px 10px;">Teaching</h2>
 
 <ul>
-  <li><strong>[Fall 2021 and 2022]</strong> Econometrics (PhD level), rating: 4.9/5.0, Cornell.</li>	
-  <p>Course description: Gives the probabilistic and statistical background for meaningful application of econometric techniques. Topics include probability theory probability spaces, random variables, distributions, moments, transformations, conditional distributions, distribution theory and the multivariate normal distribution, convergence concepts, laws of large numbers, central limit theorems, Monte Carlo simulation; statistics: sample statistics, sufficiency, exponential families of distributions.</p>
+  <li>
+    <strong>[Fall 2021 and 2022]</strong> Econometrics (PhD level), rating: 4.9/5.0, Cornell.<br>
+    <span style="font-size: smaller;"><em>Course description:</em> Gives the probabilistic and statistical background for meaningful application of econometric techniques. Topics include probability theory probability spaces, random variables, distributions, moments, transformations, conditional distributions, distribution theory and the multivariate normal distribution, convergence concepts, laws of large numbers, central limit theorems, Monte Carlo simulation; statistics: sample statistics, sufficiency, exponential families of distributions.</span>
+  </li>
 
-  <li><strong>[Spring 2023 and 2024]</strong> Introductory Macroeconomics, rating: 4.9/5.0, Cornell.</li>	
-  <p>Course description: Analysis of aggregate economic activity in relation to the level, stability, and growth of national income. Topics may include the determination and effects of unemployment, inflation, balance of payments, deficits, and economic development, and how these may be influenced by monetary, fiscal, and other policies.</p>
+  <li>
+    <strong>[Spring 2024]</strong> Introductory Macroeconomics, rating: 4.9/5.0, Cornell.<br>
+    <span style="font-size: smaller;"><em>Course description:</em> Analysis of aggregate economic activity in relation to the level, stability, and growth of national income. Topics may include the determination and effects of unemployment, inflation, balance of payments, deficits, and economic development, and how these may be influenced by monetary, fiscal, and other policies.</span>
+  </li>
 
-  <li><strong>[Spring 2024]</strong> Digital Platform Strategy (MBA Level), Cornell.</li>	
-  <li><strong>[Spring 2025]</strong> Venture Creation Lab (MBA Level), University of Pennsylvania.</li>	
+  <li>
+    <strong>[Spring 2024]</strong> Digital Platform Strategy (MBA Level), Cornell.
+  </li>
+
+  <li>
+    <strong>[Spring 2025]</strong> Venture Creation Lab (MBA Level), University of Pennsylvania.
+  </li>
 </ul>
 
 <h3><strong>Student comments:</strong></h3>
