@@ -29,7 +29,8 @@
     <a href="https://www.dropbox.com/scl/fi/91s2dhtt5v12zd8aeyowg/FirmDemandUniv.pdf?rlkey=9u69ee4ifbs3j41o8hkeem3a7&st=v1emd0q1&dl=0">
       Exploring the Demand for External Technologies: The Roles of Appropriability and Absorptive Capacity
     </a>
-  </span>(w. David Hsu).
+  </span> (w. David Hsu).<br>
+  Under Review at <em>Strategic Management Journal</em>
 </li>
 
 <li><strong>Peers Matter: The Heterogeneous Effects of Female Peers on Scientists’ Research Focus </strong>.</li>
