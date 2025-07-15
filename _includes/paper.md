@@ -4,7 +4,7 @@
 
 <ul>
 
-<li style="margin-bottom: 40px;">
+<li style="margin-bottom: 10px;">
   <span style="color:#e74d3c">
     <a href="https://www.dropbox.com/scl/fi/9v0csu7ycc5joxxy8dnau/MDP_Xia.pdf?rlkey=i8rk8wumgvrjhzvu1952zcbi3&st=06v12alq&dl=0">
       How Does Industry Shape Academic Science? Evidence from “Million Dollar Plants”
