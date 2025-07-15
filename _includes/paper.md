@@ -17,7 +17,8 @@
   </div>
   <div style="margin-top: 5px;">
     <em>Seminar and Conference Presentations:</em><br>
-    SMS Annual Conference 2025*, Annual Meeting of the Academy of Management 2025*, Max Planck Innovation & Entrepreneurship Seminar*, DRUID 2025, Strategy Science Conference 2025, Wharton Innovation Doctoral Symposium 2025, Georgia Tech REER Conference 2024, NBER Summer Institute 2024, International Conference on the Science of Science and Innovation 2024, Duke Strategy PhD Conference 2024
+    - 2025: SMS Annual Conference*, Annual Meeting of the Academy of Management*, Max Planck Innovation & Entrepreneurship Seminar*, DRUID, Strategy Science Conference, Wharton Innovation Doctoral Symposium.<br>
+    - 2024: Georgia Tech REER Conference, NBER Summer Institute, International Conference on the Science of Science and Innovation, Duke Strategy PhD Conference.
   </div>
   <div style="margin-top: 5px;">
     ∗ Scheduled
@@ -30,7 +31,7 @@
       Exploring the Demand for External Technologies: The Roles of Appropriability and Absorptive Capacity
     </a>
   </span> (w. David Hsu).<br>
-  Under Review at <em>Strategic Management Journal</em>
+  - Under Review at <em>Strategic Management Journal</em>
 </li>
 
 <li><strong>Peers Matter: The Heterogeneous Effects of Female Peers on Scientists’ Research Focus </strong>.</li>
