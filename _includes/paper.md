@@ -12,8 +12,8 @@
   </span>.
   <div style="margin-top: 5px;">
     <em>Awards:</em><br>
-    Best Paper Award, Winner, Wharton Innovation Doctoral Symposium 2025<br>
-    Best PhD Paper Award, Nominee, SMS Annual Conference 2025
+    - Best Paper Award, Winner, Wharton Innovation Doctoral Symposium 2025<br>
+    - Best PhD Paper Award, Nominee, SMS Annual Conference 2025
   </div>
   <div style="margin-top: 5px;">
     <em>Seminar and Conference Presentations:</em><br>
@@ -37,7 +37,7 @@
 <li>
   <strong>Closing the Racial Gap in Entrepreneurship: The Role of Spousal Public Sector Jobs</strong> (w. Qian Wang).<br>
   <em>Awards:</em><br>
-  DRUID 2025 Steven Klepper Award for Best Young Scholar Paper
+  - DRUID 2025 Steven Klepper Award for Best Young Scholar Paper
 </li>
 
 
