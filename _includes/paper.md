@@ -37,7 +37,7 @@
 <li><strong>Peers Matter: The Heterogeneous Effects of Female Peers on Scientists’ Research Focus </strong>.</li>
 <li>
   <strong>Closing the Racial Gap in Entrepreneurship: The Role of Spousal Public Sector Jobs</strong> (w. Qian Wang).<br>
-  <em>Awards:</em><br>
+  <em>Award:</em><br>
   - DRUID 2025 Steven Klepper Award for Best Young Scholar Paper
 </li>
 
