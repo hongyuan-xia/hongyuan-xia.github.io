@@ -12,12 +12,13 @@
   </span>.
   <div style="margin-top: 5px;">
     <em>Awards:</em><br>
+    - Finalist, INFORMS/Organization Science Best Dissertation Proposal Competition 2025<br>
     - Best Paper Award, Winner, Wharton Innovation Doctoral Symposium 2025<br>
     - Best PhD Paper Award, Nominee, SMS Annual Conference 2025
   </div>
   <div style="margin-top: 5px;">
     <em>Seminar and Conference Presentations:</em><br>
-    - 2025: SMS Annual Conference*, Annual Meeting of the Academy of Management*, Max Planck Innovation & Entrepreneurship Seminar*, DRUID, Strategy Science Conference, Wharton Innovation Doctoral Symposium.<br>
+    - 2025: INFORMS Annual Meeting*, SMS Annual Conference*, Annual Meeting of the Academy of Management, Max Planck Innovation & Entrepreneurship Seminar, DRUID, Strategy Science Conference, Wharton Innovation Doctoral Symposium.<br>
     - 2024: Georgia Tech REER Conference, NBER Summer Institute, International Conference on the Science of Science and Innovation, Duke Strategy PhD Conference.
   </div>
   <div style="margin-top: 5px;">
